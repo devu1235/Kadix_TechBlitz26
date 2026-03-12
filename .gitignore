@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.tmp/
+*.log
+*.db
+token.pickle
+credentials.json

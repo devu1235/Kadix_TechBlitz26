@@ -1,0 +1,14 @@
+Flask
+APScheduler
+SQLAlchemy
+python-telegram-bot
+python-dotenv
+requests
+sendgrid
+python-dateutil
+twilio
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
